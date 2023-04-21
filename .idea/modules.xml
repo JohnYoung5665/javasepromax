@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01-oop-demo/day01-oop-demo.iml" filepath="$PROJECT_DIR$/day01-oop-demo/day01-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-oop-demo/day02-oop-demo.iml" filepath="$PROJECT_DIR$/day02-oop-demo/day02-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu/doudizhu.iml" filepath="$PROJECT_DIR$/doudizhu/doudizhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycontainer/mycontainer/mycontainer.iml" filepath="$PROJECT_DIR$/mycontainer/mycontainer/mycontainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfunction/myfunction.iml" filepath="$PROJECT_DIR$/myfunction/myfunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystream/mystream.iml" filepath="$PROJECT_DIR$/mystream/mystream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
