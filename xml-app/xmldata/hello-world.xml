@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    文档声明：
+    必须是第一行第一列
+    version：XML默认的版本号码、该属性是必须的
+    encoding：本XML文件的编码（不是必须的）
+    standalone: 该属性不是必须的，描述XML文件是否依赖其他的xml文件，取值为yes/no
+ -->
+
+<!-- 根标签有且只能有一个 -->
+<student>
+    <name>女儿国王</name>
+    <sex>女</sex>
+    <hobby>唐僧</hobby>
+    <info>
+        <age>30</age>
+        <addr>女儿国</addr>
+    </info>
+    <!-- XML文件中的特殊字符：
+         &lt; < 小于       &gt; > 大于
+         &amp; & 和号      &apos; ' 单引号    &quot; " 引号
+     -->
+    <sql>
+        select * from user where age &lt; 18;
+        <![CDATA[
+                select * from user where age < 18;
+        ]]>
+    </sql>
+</student>

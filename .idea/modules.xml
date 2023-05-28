@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation-app/annotation-app.iml" filepath="$PROJECT_DIR$/annotation-app/annotation-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-oop-demo/day01-oop-demo.iml" filepath="$PROJECT_DIR$/day01-oop-demo/day01-oop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02-oop-demo/day02-oop-demo.iml" filepath="$PROJECT_DIR$/day02-oop-demo/day02-oop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/doudizhu/doudizhu.iml" filepath="$PROJECT_DIR$/doudizhu/doudizhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-app/junit-app.iml" filepath="$PROJECT_DIR$/junit-app/junit-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-app/logback-app.iml" filepath="$PROJECT_DIR$/logback-app/logback-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclassloader/myclassloader.iml" filepath="$PROJECT_DIR$/myclassloader/myclassloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycontainer/mycontainer/mycontainer.iml" filepath="$PROJECT_DIR$/mycontainer/mycontainer/mycontainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydynamicproxy/mydynamicproxy.iml" filepath="$PROJECT_DIR$/mydynamicproxy/mydynamicproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/myexception/myexception.iml" filepath="$PROJECT_DIR$/myexception/myexception.iml" />
       <module fileurl="file://$PROJECT_DIR$/myfile/myfile.iml" filepath="$PROJECT_DIR$/myfile/myfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/myfunction/myfunction.iml" filepath="$PROJECT_DIR$/myfunction/myfunction.iml" />
       <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
       <module fileurl="file://$PROJECT_DIR$/myiotest/myiotest.iml" filepath="$PROJECT_DIR$/myiotest/myiotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myreflect/myreflect.iml" filepath="$PROJECT_DIR$/myreflect/myreflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mysocketnet/mysocketnet.iml" filepath="$PROJECT_DIR$/../mysocketnet/mysocketnet.iml" />
       <module fileurl="file://$PROJECT_DIR$/mystream/mystream.iml" filepath="$PROJECT_DIR$/mystream/mystream.iml" />
       <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
@@ -18,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/mythread/mythreadtest/mythreadtest.iml" filepath="$PROJECT_DIR$/mythread/mythreadtest/mythreadtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-app/xml-app.iml" filepath="$PROJECT_DIR$/xml-app/xml-app.iml" />
     </modules>
   </component>
 </project>
